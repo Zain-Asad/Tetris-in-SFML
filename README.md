@@ -4,15 +4,19 @@ while including a bomb feature, which randomly drops a bomb and clears all the t
 of the bomb, it is a random event.
 
 This was done using C++ and SFML on Linux, and for building and running, you will need to install sfml:
+
 sudo apt-get install libsfml-dev
 
 And to build the project:
+
 main.cpp -o sfml-app -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio
 
 For running:
+
 ./sfml-app
 
 Credit:
+
 Background Music Used:
 
 The Rain Formerly Known As Purple
